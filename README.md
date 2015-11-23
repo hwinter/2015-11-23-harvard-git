@@ -22,4 +22,8 @@ git add .
 
 emacs .gitignore
 
-Strategy: ignore results folder
+Strategy: ignore results folder because they should be reproducible by code
+
+git log
+git log --oneline
+
