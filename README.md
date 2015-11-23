@@ -15,3 +15,7 @@ Can check with
 git config --list
 
 git commit -m "created a readme for this repository"
+
+To add everything:
+
+git add . 
