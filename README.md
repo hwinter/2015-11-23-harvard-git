@@ -1,7 +1,7 @@
 git commands
 
 init: run only once
-status: your friend
+status: gives you an update
 
 These are the commands to start out
 
