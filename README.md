@@ -2,7 +2,6 @@ git commands
 
 init: run only once
 status: your friend
-checkout
 
 These are the commands to start out
 
@@ -30,3 +29,7 @@ git log --oneline
 
 git diff
 git diff HEAD~4
+
+Go back to last commit
+
+git reset --hard
