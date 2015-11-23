@@ -2,6 +2,7 @@ git commands
 
 init: run only once
 status: your friend
+checkout
 
 These are the commands to start out
 
