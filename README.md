@@ -27,3 +27,5 @@ Strategy: ignore results folder because they should be reproducible by code
 git log
 git log --oneline
 
+git diff
+git diff HEAD~4
