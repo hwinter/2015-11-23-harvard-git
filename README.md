@@ -19,3 +19,7 @@ git commit -m "created a readme for this repository"
 To add everything:
 
 git add . 
+
+emacs .gitignore
+
+Strategy: ignore results folder
